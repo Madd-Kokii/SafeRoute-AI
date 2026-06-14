@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛡️ SafeRoute AI
 
 An intelligent **community risk prediction & service-continuity platform**.
@@ -210,7 +209,3 @@ flask --app run list-users
 - Secrets come from environment variables only — nothing is hard-coded.
 - Login is protected by a simple in-memory rate limiter; input is validated on
   every write endpoint.
-=======
-# SafeRoute-AI
-A smart ai intelligent route tracking system using ai analysis and predictions
->>>>>>> f6402b38188e4cb1049deb7522d3e46aff9b3f8c
