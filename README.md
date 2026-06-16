@@ -2,6 +2,8 @@
 
 An intelligent **community risk prediction & service-continuity platform**.
 
+Link: https://saferoute-ai-eox1.onrender.com
+
 SafeRoute AI tracks community events and risk signals, generates area-based risk
 scores with a transparent scoring engine, recommends safe routes, and broadcasts
 role-targeted notifications to citizens — all behind a strict,
